@@ -32,7 +32,7 @@ local student2 = Student:new("Uar", 21, "Engineering") -- can also use ":", no n
 -- print student details
 student1:print()
 print("---")
-student2.print(Student)
+student2.print(student2)
 print()
 print()
 
